@@ -5,4 +5,4 @@ Welcome to my frontend learning repository! This space tracks my progress as I b
 ## 📂 Projects Directory
 
 * [Glassmorphism Login Page](./LoginPage) — A sleek, modern login form built using custom CSS filters and semantic HTML.
-* **Game of Shapes** — An interactive frontend mini-project practicing CSS positioning, shapes, 2D transforms, and hover animations.
+* [Game of Shapes](./game-of-shapes) — An interactive frontend mini-project practicing CSS positioning, shapes, 2D transforms, and hover animations.
